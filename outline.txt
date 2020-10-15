@@ -1,0 +1,18 @@
+https://docs.openaq.org/ 
+api for air quality data 
+
+https://calendarific.com/
+calendar api for 100 countries and languages 
+
+goal: 
+    - make an air quality website specifically for specific cities in the california 
+        - san jose 
+        - LA 
+        - sacremento 
+        - tahoe 
+    - make a time machine with the calendar api 
+
+attributes: 
+    - header (possibly a logo) 
+    - different pages for each city 
+    - home screen 
